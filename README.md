@@ -184,7 +184,7 @@ curl -X POST http://localhost:5000/api/ai/generate-flashcards \
 <div align=\"center\">
   <table>
     <tr>
-      <td><img src=\"https://via.placeholder.com/500x350/059669/FFFFFF?text=📊+Dashboard+-+Progress+Overview\" alt=\"Dashboard\" style=\"border-radius:12px;box-shadow:0 8px 32px rgba(0,0,0,0.1);\" width=\"48%\" /></td>
+      <td><img src="./image/DashBoard.png" alt=\"Dashboard\" style=\"border-radius:12px;box-shadow:0 8px 32px rgba(0,0,0,0.1);\" width=\"48%\" /></td>
       <td><img src=\"https://via.placeholder.com/500x350/7C3AED/FFFFFF?text=🧠+AI+Flashcards+Generator\" alt=\"Flashcards\" style=\"border-radius:12px;box-shadow:0 8px 32px rgba(0,0,0,0.1);\" width=\"48%\" /></td>
     </tr>
     <tr>
