@@ -194,7 +194,7 @@ curl -X POST http://localhost:5000/api/ai/generate-flashcards \
   </table>
 </div>
 
-**Live Demo Video**: [Record short demo and upload to GitHub/YouTube](#) (Replace placeholder)
+
 
 ## ☁️ Production Deployment
 
